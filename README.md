@@ -1,6 +1,3 @@
-# AES-Encryption-Python (Completed/Working)
-
-Created by Van. June 2017 </br>
 
 Resource(s) Used: </br>
 -BitVector class created by Avinash Kak (kak@purdue.edu) at https://engineering.purdue.edu/kak/dist/BitVector-3.4.4.html </br>
